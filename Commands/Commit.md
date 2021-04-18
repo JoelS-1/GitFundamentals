@@ -21,4 +21,4 @@ Then when viewing the history of a git reposity, you can pinpoint where the regi
 
 ---
 
-[Back to home](./README.md)
+[Back to home](../README.md)
